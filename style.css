@@ -1,0 +1,49 @@
+
+
+body{
+
+   background-color:gray;
+
+
+}
+
+.contoner{
+
+text-align:center;
+background-color:white;
+
+width:90%;
+
+max-width:700px;
+min-height: none;
+margin:50px auto;
+
+  
+    background-image:url("https://media.gettyimages.com/id/1976099664/photo/artificial-intelligence-processor-concept-ai-big-data-array.jpg?s=612x612&w=gi&k=20&c=Ja6tyJoksWeZHbvJvC3SVUMV3lJMViBgu07TSp1NDN8=");
+     
+border-radius:25px;
+padding:30px;
+}
+
+.box{
+      text-align:center;
+      margin-top:70px;
+ 
+     
+max-width:700px;
+min-height: none;
+margin:50px auto;
+
+     width:100px;
+     height:50px;
+     
+     border-radius:20px 20px 20px 20px;
+     background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARgG6RtM6XTWrHLgBe-ccE_LDY824ArVZH-wlRNx_Kg&s=10");
+    color:white
+
+    
+
+    }
+
+
+   
